@@ -10,3 +10,19 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#app {
+    padding:50px 80px;
+}
+.MainFrame {
+    display: inline-block;
+    background: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    line-height: 80px;
+    width: 100%;
+    font-size: 30px;
+}
+
