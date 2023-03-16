@@ -11,18 +11,25 @@
 
 */
 
+
 #app {
     padding:50px 80px;
+    text-align: center;
+    font-size: 30px;
 }
+
 .MainFrame {
-    display: inline-block;
+    position: relative;
     background: black;
     color: white;
     text-align: center;
-    justify-content: center;
-    position: relative;
     line-height: 80px;
-    width: 100%;
-    font-size: 30px;
+    width: 60%;
+    margin: 0% 20%;
+}
+
+span {
+    padding:5px;
+    margin: 0 5px;
 }
 
