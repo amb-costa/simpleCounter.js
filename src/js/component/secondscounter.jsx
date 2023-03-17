@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 
 //import clock icon from react-icons library
 import {FaClock} from 'react-icons/fa'
